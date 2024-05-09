@@ -1,7 +1,7 @@
+<p><a target="_blank" href="https://app.eraser.io/workspace/uoDIxVxYT2N9tCltPMUj" id="edit-in-eraser-github-link"><img alt="Edit in Eraser" src="https://firebasestorage.googleapis.com/v0/b/second-petal-295822.appspot.com/o/images%2Fgithub%2FOpen%20in%20Eraser.svg?alt=media&amp;token=968381c8-a7e7-472a-8ed6-4a6626da5501"></a></p>
+
 # Přehled projektu
 Stručný popis projektu a jeho cílů.
-
-
 
 ## Klíčové funkce
 - Funkce 1
@@ -12,7 +12,7 @@ Stručný popis projektu a jeho cílů.
 - Komponenta 2 (např. Backend používající Node.js)
 - Komponenta 3 (např. služby umělé inteligence)
 ## Technický zásobník
-- Technologie 1
+- UIX [﻿ui.shadcn.com/](https://ui.shadcn.com/) 
 - Technologie 2
 - Technologie 3
 ## Jak přispět
@@ -24,7 +24,6 @@ Stručný popis projektu a jeho cílů.
 ## Kontakt/podpora
 - Jak se obrátit na podporu nebo na další dotazy
 (Poznámka: Pokud vysvětlujete složité systémové interakce nebo architekturu, připojte diagram.)
-
 ---
 
 # Dokumentace k nástroji AI Resume Creator and Evaluator Tool
@@ -70,7 +69,7 @@ Nástroj je přístupný prostřednictvím:
 2. Vyberte formát exportu.
 3. Stáhněte si exportovaný soubor.
 ---
- 
+
 # Dokument technického návrhu: AI Resume Creator and Evaluator
 ## 1. Úvod
 - **Účel**: Popište účel dokumentu.
@@ -124,3 +123,8 @@ Nástroj je přístupný prostřednictvím:
 ## 12. Přílohy
 - **Dodatečná dokumentace**: Uveďte jakoukoli další dokumentaci, odkazy nebo zdroje.
 - **Kontaktní informace**: Uveďte kontaktní údaje na vedoucí projektu nebo klíčové členy týmu.
+
+
+
+
+<!--- Eraser file: https://app.eraser.io/workspace/uoDIxVxYT2N9tCltPMUj --->
