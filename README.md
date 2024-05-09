@@ -10,6 +10,8 @@
 ## Přehled
 Nástroj AI Resume Creator and Evaluator je online nástroj určený na pomoc uchazečům o zaměstnání v České republice, který usnadňuje tvorbu a hodnocení životopisů. Tento nástroj integruje pokročilé funkce umělé inteligence, které poskytují poradenství, zpětnou vazbu a motivační podporu s cílem zlepšit proces hledání zaměstnání.
 
+![Flow](/.eraser/uoDIxVxYT2N9tCltPMUj___g8h3jqeWXCcADcT7kpXean9Zj2C3___---figure---NsUdWxQR3LbvYRCXvis5B---figure---AQfGDDg0HOu8V8qCr42vMg.png "Flow")
+
 ## Klíčové funkce
 - **Vytváření životopisů**: Využívá asistenta AI k automatickému generování strukturovaných návrhů životopisů na základě uživatelem zadaných informací.
 - **Vyhodnocení životopisu**: Umožňuje uživatelům nahrát jejich stávající životopisy a získat hodnocení, zpětnou vazbu a návrhy na zlepšení na základě umělé inteligence.
@@ -46,5 +48,10 @@ Nástroj je přístupný prostřednictvím:
 
 
 
-
+<!-- eraser-additional-content -->
+## Diagrams
+<!-- eraser-additional-files -->
+<a href="/README-Resume Creation and Evaluation Process-1.eraserdiagram" data-element-id="qIBLcB2BNiOA_hGCrK4FM"><img src="/.eraser/uoDIxVxYT2N9tCltPMUj___g8h3jqeWXCcADcT7kpXean9Zj2C3___---diagram----fb14b45eeee42599793a4d0b134b9256-Resume-Creation-and-Evaluation-Process.png" alt="" data-element-id="qIBLcB2BNiOA_hGCrK4FM" /></a>
+<!-- end-eraser-additional-files -->
+<!-- end-eraser-additional-content -->
 <!--- Eraser file: https://app.eraser.io/workspace/uoDIxVxYT2N9tCltPMUj --->

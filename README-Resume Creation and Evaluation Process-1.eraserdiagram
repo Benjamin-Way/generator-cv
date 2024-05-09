@@ -1,0 +1,53 @@
+flowchart-diagram
+
+title Resume Creation and Evaluation Process
+
+// Define groups and nodes
+Vytvoření Životopisu [color: blue] {
+  Začátek Vytváření [shape: oval, icon: play]
+  Zadání Uživatelských Dat [icon: user-check]
+  AI Generování Návrhu [icon: cpu]
+  Kontrola Návrhu [icon: eye]
+  Uživatelské Úpravy [icon: edit-3]
+  Uložení Konečného Životopisu [icon: save]
+}
+
+Hodnocení Životopisu [color: green] {
+  Začátek Hodnocení [shape: oval, icon: play]
+  Nahrání Životopisu [icon: upload-cloud]
+  AI Hodnocení [icon: cpu]
+  Poskytnutí Zpětné Vazby [icon: message-square]
+  Uživatel Přezkoumá Zpětnou Vazbu [icon: eye]
+  Aplikace Změn [icon: tool]
+  Uložení Aktualizovaného Životopisu [icon: save]
+}
+
+Motivační Prvky [color: orange] {
+  Začátek Motivace [shape: oval, icon: play]
+  Zobrazení Motivačního Obsahu [icon: sun]
+  Interakce Uživatele [icon: thumbs-up]
+  Podpora Pokroku [icon: award]
+}
+
+// Define connections with labels
+Začátek Vytváření > Zadání Uživatelských Dat
+Zadání Uživatelských Dat > AI Generování Návrhu
+AI Generování Návrhu > Kontrola Návrhu
+Kontrola Návrhu > Uživatelské Úpravy
+Uživatelské Úpravy > Uložení Konečného Životopisu
+
+Začátek Hodnocení > Nahrání Životopisu
+Nahrání Životopisu > AI Hodnocení
+AI Hodnocení > Poskytnutí Zpětné Vazby
+Poskytnutí Zpětné Vazby > Uživatel Přezkoumá Zpětnou Vazbu
+Uživatel Přezkoumá Zpětnou Vazbu > Aplikace Změn
+Aplikace Změn > Uložení Aktualizovaného Životopisu
+
+Začátek Motivace > Zobrazení Motivačního Obsahu
+Zobrazení Motivačního Obsahu > Interakce Uživatele
+Interakce Uživatele > Podpora Pokroku
+
+// Connect motivational elements to other processes
+Podpora Pokroku > Začátek Vytváření
+Podpora Pokroku > Začátek Hodnocení
+
