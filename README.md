@@ -2,6 +2,10 @@
 
 
 
+![Person with laptop and resume AI symbol.png](/.eraser/uoDIxVxYT2N9tCltPMUj___g8h3jqeWXCcADcT7kpXean9Zj2C3___hriGxQ_n0oHSpxf3tsPfB.png "Person with laptop and resume AI symbol.png")
+
+
+
 # AI Resume Creator and Evaluator Tool
 ## Přehled
 Nástroj AI Resume Creator and Evaluator je online nástroj určený na pomoc uchazečům o zaměstnání v České republice, který usnadňuje tvorbu a hodnocení životopisů. Tento nástroj integruje pokročilé funkce umělé inteligence, které poskytují poradenství, zpětnou vazbu a motivační podporu s cílem zlepšit proces hledání zaměstnání.
